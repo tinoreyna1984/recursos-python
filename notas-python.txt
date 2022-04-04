@@ -1,0 +1,18 @@
+Python
+******
+
+Instalar Python: ver sitio web
+
+Instalar Django
+===============
+pip install Django==<ver la version en página web>
+python -m django --version
+
+Instalar virtualenv
+===================
+python -m pip install --user virtualenv
+python -m virtualenv --version
+
+
+
+
